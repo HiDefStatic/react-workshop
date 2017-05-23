@@ -15,7 +15,7 @@ class App extends Component {
       <div className='page'>
         <div className='container-fluid top-padding'>
           <div className='col-md-2'>
-            <ProfileCard />
+            <ProfileCard imagesrc={"https://assets.yandycdn.com/HiRez/RC_880738_C2013.jpg"} titleText={"Hi, I'm Sexy Pizza Guy"} subtext={"A just-outside-of-the-box pizza boy with a penchant for pepperoni and long walks on the beach"} />
           </div>
           <div className='col-md-8'>
             <Content />
