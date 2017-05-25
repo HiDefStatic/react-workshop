@@ -1,11 +1,11 @@
 import React, {Component} from 'react'
 
-class Content extends Component {
+class Home extends Component {
   render(){
     return(<div>
-      and I'm your main content
+      Look at me I'm a sexy pizza guy
       </div>)
   }
 }
 
-export default Content;
+export default Home;
